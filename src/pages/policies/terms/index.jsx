@@ -22,12 +22,17 @@ export default function Privacy() {
       {/* <CustomHead { ...headProps } /> */}
       <Header />
       <main>
-        {/* <HeroSub title="Privacy Policy"
-          description={[
-                      'We are committed to protecting your privacy. This privacy statement explains what information we collect from you when you visit our website and how we use that information. We collect personal information that you voluntarily provide to us when you fill out forms on our website or contact us by email. We also collect non-personal information, such as the type of browser you are using and the pages you visit on our website. We use the information we collect to improve the content of our website, respond to inquiries, and provide legal services to clients. We do not share your personal information with third parties unless required by law or as necessary to provide legal services to clients. We may use non-personal information to analyze website traffic and usage patterns. Any discounts offered by our law firm are conditional upon income and may not be available to everyone. By using our website, you consent to the collection and use of information as outlined in this privacy statement.'          
-                    ]}
-          herobgcolor="lightblue-100"
-          /> */}
+      <div className="bg-white px-6 pt-8 pb-12 sm:pb-16">
+  <div className="mx-auto max-w-3xl text-base leading-7 text-gray-700">
+  <h1 className="mt-2 text-3xl font-bold tracking-tight text-navy sm:text-4xl">
+heading
+</h1>
+  <p className='text-base leading-7 text-gray-600'>
+    test
+    </p>
+    </div>
+    </div>
+
       </main>
       <Footer />
     </>

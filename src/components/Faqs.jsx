@@ -6,16 +6,16 @@ import backgroundImage from '@/images/background-faqs.jpg'
 const faqs = [
   [
     {
-      question: 'Does VendorSync Marketplace handle VAT?',
+      question: 'What is VendorSync Marketplace’s commission structure?',
       answer:
         'Well no, but if you move your company offshore you can probably ignore it.',
     },
     {
-      question: 'Can I pay for my subscription via purchase order?',
+      question: 'How do order fulfillment and shipping work?',
       answer: 'Absolutely, we are happy to take your money in all forms.',
     },
     {
-      question: 'How do I apply for a job at VendorSync Marketplace?',
+      question: 'How and when do I get paid?',
       answer:
         'We only hire our customers, so subscribe for a minimum of 6 months and then let’s talk.',
     },
