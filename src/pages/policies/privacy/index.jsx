@@ -29,36 +29,38 @@ export default function Privacy() {
 </h1>
   <p className='text-base leading-7 text-gray-600'>
   <p>Last updated: October 19, 2023</p>
-
-<p>This Privacy Policy describes how VendorSync Marketplace (the "Site", "we", "us", or "our") collects, uses, and discloses your personal information when you visit, use our services, or make a purchase from https://www.vendorsyncmarketplace.com/ (the "Site") or otherwise communicate with us (collectively, the "Services"). For purposes of this Privacy Policy, "you" and "your" means you as the user of the Services, whether you are a customer, website visitor, or another individual whose information we have collected pursuant to this Privacy Policy.</p>.
+<br></br>
+<p>This Privacy Policy describes how VendorSync Marketplace (the "Site", "we", "us", or "our") collects, uses, and discloses your personal information when you visit, use our services, or make a purchase from https://www.vendorsyncmarketplace.com/ (the "Site") or otherwise communicate with us (collectively, the "Services"). For purposes of this Privacy Policy, "you" and "your" means you as the user of the Services, whether you are a customer, website visitor, or another individual whose information we have collected pursuant to this Privacy Policy.</p>
 
 <p>Please read this Privacy Policy carefully. By using and accessing any of the Services, you agree to the collection, use, and disclosure of your information as described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not use or access any of the Services.</p>
 
-<h2>Changes to This Privacy Policy</h2>
+<h3>Changes to This Privacy Policy</h3>
 
-We may update this Privacy Policy from time to time, including to reflect changes to our practices or for other operational, legal, or regulatory reasons. We will post the revised Privacy Policy on the Site, update the "Last updated" date and take any other steps required by applicable law.
+<p>We may update this Privacy Policy from time to time, including to reflect changes to our practices or for other operational, legal, or regulatory reasons. We will post the revised Privacy Policy on the Site, update the "Last updated" date and take any other steps required by applicable law.</p>
 
-How We Collect and Use Your Personal Information
+<h3>How We Collect and Use Your Personal Information</h3>
 
-To provide the Services, we collect and have collected over the past 12 months personal information about you from a variety of sources, as set out below. The information that we collect and use varies depending on how you interact with us.
+<p>To provide the Services, we collect and have collected over the past 12 months personal information about you from a variety of sources, as set out below. The information that we collect and use varies depending on how you interact with us.</p>
 
-In addition to the specific uses set out below, we may use information we collect about you to communicate with you, provide the Services, comply with any applicable legal obligations, enforce any applicable terms of service, and to protect or defend the Services, our rights, and the rights of our users or others.
+<p>In addition to the specific uses set out below, we may use information we collect about you to communicate with you, provide the Services, comply with any applicable legal obligations, enforce any applicable terms of service, and to protect or defend the Services, our rights, and the rights of our users or others.</p>
 
-What Personal Information We Collect
+<h3>What Personal Information We Collect</h3>
 
-The types of personal information we obtain about you depends on how you interact with our Site and use our Services. When we use the term "personal information", we are referring to information that identifies, relates to, describes or can be associated with you. The following sections describe the categories and specific types of personal information we collect.
+<p>The types of personal information we obtain about you depends on how you interact with our Site and use our Services. When we use the term "personal information", we are referring to information that identifies, relates to, describes or can be associated with you. The following sections describe the categories and specific types of personal information we collect.</p>
 
-Information We Collect Directly from You
+<h3>Information We Collect Directly from You</h3>
 
-Information that you directly submit to us through our Services may include:
+<p>Information that you directly submit to us through our Services may include:</p>
 
-- Basic contact details including your name, address, phone number, email.
-- Order information including your name, billing address, shipping address, payment confirmation, email address, phone number.
-- Account information including your username, password, security questions.
-- Shopping information including the items you view, put in your cart or add to your wishlist.
-- Customer support information including the information you choose to include in communications with us, for example, when sending a message through the Services.
+<ul>
+        <li>Basic contact details including your name, address, phone number, email.</li>
+        <li>Order information including your name, billing address, shipping address, payment confirmation, email address, phone number.</li>
+        <li>Account information including your username, password, security questions.</li>
+        <li>Shopping information including the items you view, put in your cart or add to your wishlist.</li>
+        <li>Customer support information including the information you choose to include in communications with us, for example, when sending a message through the Services.</li>
+    </ul>
 
-Some features of the Services may require you to directly provide us with certain information about yourself. You may elect not to provide this information, but doing so may prevent you from using or accessing these features.
+<p>Some features of the Services may require you to directly provide us with certain information about yourself. You may elect not to provide this information, but doing so may prevent you from using or accessing these features.</p>
 
 Information We Collect through Cookies
 
