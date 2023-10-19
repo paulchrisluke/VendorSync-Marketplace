@@ -23,7 +23,7 @@ export default function Privacy() {
       <Header />
       <main>
       <div className="bg-white px-6 pt-8 pb-12 sm:pb-16">
-  <div className="mx-auto max-w-3xl text-base leading-7 text-gray-700">
+  <div className="prose mx-auto max-w-3xl text-base leading-7 text-gray-700">
   <h1 className="mt-2 text-3xl font-bold tracking-tight text-navy sm:text-4xl">
 Terms Of Service
 </h1>
