@@ -12,25 +12,25 @@ import screenshotVatReturns from '@/images/screenshots/vat-returns.png'
 
 const features = [
   {
-    title: 'Payroll',
+    title: 'One-Click Shopify Install',
     description:
-      "Keep track of everyone's salaries and whether or not they've been paid. Direct deposit not supported.",
+      "Want to be a Parent Seller, or Affiliate Vendor? One click install is easy via Shopify",
     image: screenshotPayroll,
   },
   {
-    title: 'Claim expenses',
+    title: 'Become a Vendor',
     description:
       "All of your receipts organized into one place, as long as you don't mind typing in the data by hand.",
     image: screenshotExpenses,
   },
   {
-    title: 'VAT handling',
+    title: 'Become a Seller',
     description:
       "We only sell our software to companies who don't deal with VAT at all, so technically we do all the VAT stuff they need.",
     image: screenshotVatReturns,
   },
   {
-    title: 'Reporting',
+    title: 'Manage within Shopify',
     description:
       'Easily export your data into an Excel spreadsheet where you can do whatever the hell you want with it.',
     image: screenshotReporting,
