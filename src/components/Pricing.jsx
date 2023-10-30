@@ -116,45 +116,45 @@ export function Pricing() {
         </div>
         <div className="-mx-4 mt-16 grid max-w-2xl grid-cols-1 gap-y-10 sm:mx-auto lg:-mx-8 lg:max-w-none lg:grid-cols-3 xl:mx-0 xl:gap-x-8">
           <Plan
-            name="Beta"
+            name="Vendor"
             price="Free"
-            description="Good for anyone who is self-employed and just getting started."
+            description="Sync your store's data to a parent store."
             href="/register"
             features={[
-              'Send 10 quotes and invoices',
-              'Connect up to 2 bank accounts',
-              'Track up to 15 expenses per month',
-              'Manual payroll support',
-              'Export up to 3 reports',
+              '2 Click install',
+              'Effortless sales',
+              'Recieve orders from a parent sales channel',
+              // 'Manual payroll support',
+              // 'Export up to 3 reports',
             ]}
           />
           <Plan
             featured
-            name="Starter"
+            name="Seller"
             price="$49/mo"
-            description="Perfect for small / medium sized businesses."
+            description="Sell vendor products on your store"
             href="/register"
             features={[
-              'Send 25 quotes and invoices',
-              'Connect up to 5 bank accounts',
-              'Track up to 50 expenses per month',
-              'Automated payroll support',
-              'Export up to 12 reports',
-              'Bulk reconcile transactions',
-              'Track in multiple currencies',
+              '2 Click install',
+              'Earn 15% comission for vendor product sales on your store',
+              'Connect up to 50 stores',
+              'Automated data sync',
+              'Manage product availability',
+              // 'Bulk reconcile transactions',
+              // 'Track in multiple currencies',
             ]}
           />
           <Plan
             name="Enterprise"
             price="$299"
-            description="For even the biggest enterprise companies."
+            description="Sell vendor products at scale"
             href="/register"
             features={[
-              'Send unlimited quotes and invoices',
-              'Connect up to 15 bank accounts',
-              'Track up to 200 expenses per month',
-              'Automated payroll support',
-              'Export up to 25 reports, including TPS',
+              'Flexible comission structures',
+              'Connect unlimited stores',
+              // 'Track up to 200 expenses per month',
+              // 'Automated payroll support',
+              // 'Export up to 25 reports, including TPS',
             ]}
           />
         </div>
