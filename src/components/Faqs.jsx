@@ -32,12 +32,6 @@ const faqs = [
       answer:
         'Sellers can choose from various payment methods, and their earnings are securely processed and directly deposited into their preferred account. Our app ensures a transparent and hassle-free payment process.',
     },
-    {
-      question:
-        'Is there a support system in place for sellers on the multivendor marketplace?',
-      answer:
-        'Yes, we offer dedicated support for both sellers and administrators. Our team is here to assist with any questions or issues to ensure a seamless experience for everyone involved.',
-    },
   ],
   [
     {
@@ -45,6 +39,12 @@ const faqs = [
       answer:
         'Yes, our app comes with robust reporting and analytics tools that allow you to track sales, monitor seller performance, and gain valuable insights to make data-driven decisions.',
     },
+    {
+      question:
+        'Is there a support system in place for sellers on the multivendor marketplace?',
+      answer:
+        'Yes, we offer dedicated support for both sellers and administrators. Our team is here to assist with any questions or issues to ensure a seamless experience for everyone involved.',
+    }
   ],
 ]
 
