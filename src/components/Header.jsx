@@ -108,7 +108,7 @@ export function Header() {
             <div className="hidden md:block">
               {/* <NavLink href="/login">Sign in</NavLink> */}
             </div>
-            <Button href="/register" color="green">
+            <Button href="mailto:hello@multivendormarketplace.com" color="green">
               <span>
                 Request <span className="hidden lg:inline">Beta Access</span>
               </span>

@@ -119,7 +119,7 @@ export function Pricing() {
             name="Vendor"
             price="Free"
             description="Sync your store's data to a parent store."
-            href="/register"
+            href="mailto:hello@multivendormarketplace.com"
             features={[
               '2 Click install',
               'Effortless sales',
@@ -133,7 +133,7 @@ export function Pricing() {
             name="Seller"
             price="$49/mo"
             description="Sell vendor products on your store"
-            href="/register"
+            href="mailto:hello@multivendormarketplace.com"
             features={[
               '2 Click install',
               'Earn 15% comission for vendor product sales on your store',
@@ -148,7 +148,7 @@ export function Pricing() {
             name="Enterprise"
             price="$299"
             description="Sell vendor products at scale"
-            href="/register"
+            href="mailto:hello@multivendormarketplace.com"
             features={[
               'Flexible comission structures',
               'Connect unlimited stores',

@@ -31,7 +31,7 @@ export function Hero() {
       Connect with other Shopify stores and become a wholesale marketplace for brands.
       </p>
       <div className="mt-10 flex justify-center gap-x-6">
-        <Button color="green" href="/register">Request Beta Access</Button>
+        <Button color="green" href="mailto:hello@multivendormarketplace.com">Request Beta Access</Button>
         {/* <Button
           href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
           variant="outline"

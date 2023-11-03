@@ -26,7 +26,7 @@ export function CallToAction() {
           <p className="mt-4 text-lg tracking-tight text-white">
           Connect with other Shopify stores and become a wholesale marketplace for brands.
           </p>
-          <Button href="/register" color="white" className="mt-10">
+          <Button href="mailto:hello@multivendormarketplace.com" color="white" className="mt-10">
             Request Beta Access
           </Button>
         </div>

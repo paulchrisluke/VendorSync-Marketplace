@@ -11,9 +11,9 @@ import screenshotProfitLoss from '@/images/screenshots/profit-loss.png'
 const features = [
   {
     name: 'Reporting',
-    summary: 'Stay on top of things with always up-to-date reporting features.',
+    summary: 'Orders arrive in your Shopify store as normal',
     description:
-      'We talked about reporting in the section above but we needed three items here, so mentioning it one more time for posterity.',
+      'Just like Facebook, Google Merchant, etc. MultiVendor Marketplace will send orders directly to your Shopify store, and list the parent Vendor as the selling channel.',
     image: screenshotProfitLoss,
     icon: function ReportingIcon() {
       let id = useId()
@@ -46,9 +46,9 @@ const features = [
   {
     name: 'Inventory',
     summary:
-      'Never lose track of what’s in stock with accurate inventory tracking.',
+      'No need to manage inventory on a second app',
     description:
-      'We don’t offer this as part of our software but that statement is inarguably true. Accurate inventory tracking would help you for sure.',
+      'We sync your live inventory, as products are sold out on your native store, they will show as sold out on the parent Vendor store.',
     image: screenshotInventory,
     icon: function InventoryIcon() {
       return (
@@ -72,11 +72,11 @@ const features = [
     },
   },
   {
-    name: 'Contacts',
+    name: 'Customers',
     summary:
-      'Organize all of your contacts, service providers, and invoices in one place.',
+      'Gain new customers from large Vendors',
     description:
-      'This also isn’t actually a feature, it’s just some friendly advice. We definitely recommend that you do this, you’ll feel really organized and professional.',
+      'As you sell your products on Vendor sites, you aquire new users symbiotically.',
     image: screenshotContacts,
     icon: function ContactsIcon() {
       return (
@@ -216,11 +216,10 @@ export function SecondaryFeatures() {
       <Container>
         <div className="mx-auto max-w-2xl md:text-center">
           <h2 className="font-display text-3xl tracking-tight text-slate-900 sm:text-4xl">
-            Simplify everyday business tasks.
+            Install and start selling
           </h2>
           <p className="mt-4 text-lg tracking-tight text-slate-700">
-            Because you’d probably be a little confused if we suggested you
-            complicate your everyday business tasks instead.
+            No need to change your current Shopify process. With end-to-end data syncing, VendorSync Marketplace allows you to manage your own store as normal, adding Vendors as a sales channel.
           </p>
         </div>
         <FeaturesMobile />
