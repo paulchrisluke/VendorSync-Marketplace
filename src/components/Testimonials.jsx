@@ -11,19 +11,19 @@ const testimonials = [
   [
     {
       content:
-        'The range of functionalities it offers is impressive, and it seamlessly integrates with our Shopify store. What sets VendorSync apart is their exceptional customer service. Any question or concern we've had was addressed promptly and comprehensively. We're eagerly looking forward to the upcoming features they have in the pipeline!',
+        'The range of functionalities it offers is impressive, and it seamlessly integrates with our Shopify store. What sets VendorSync apart is their exceptional customer service.',
       author: {
-        name: 'Sheryl Berge',
-        role: 'CEO at Lynch LLC',
+        name: 'Sarah Thompson',
+        role: 'CEO',
         image: avatarImage1,
       },
     },
     {
       content:
-        'I’m trying to get a hold of someone in support, I’m in a lot of trouble right now and they are saying it has something to do with my books. Please get back to me right away.',
+        'It\'s intuitive, easy to navigate, and has significantly streamlined our vendor management process.',
       author: {
-        name: 'Amy Hahn',
-        role: 'Director at Velocity Industries',
+        name: 'John Rodriguez',
+        role: 'John Rodriguez',
         image: avatarImage4,
       },
     },
