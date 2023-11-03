@@ -20,19 +20,19 @@ const features = [
   {
     title: 'Become a Vendor',
     description:
-      "All of your receipts organized into one place, as long as you don't mind typing in the data by hand.",
+      "Seamlessly incorporate products from various suppliers directly into your store.",
     image: screenshotExpenses,
   },
   {
     title: 'Become a Seller',
     description:
-      "We only sell our software to companies who don't deal with VAT at all, so technically we do all the VAT stuff they need.",
+      "Amplify your existing store's potential by tapping into a network of vendor channels.",
     image: screenshotVatReturns,
   },
   {
     title: 'Manage within Shopify',
     description:
-      'Easily export your data into an Excel spreadsheet where you can do whatever the hell you want with it.',
+      ' Streamline your operations by accessing everything you need, all within the familiar Shopify dashboard.',
     image: screenshotReporting,
   },
 ]
