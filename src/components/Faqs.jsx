@@ -6,53 +6,44 @@ import backgroundImage from '@/images/background-faqs.jpg'
 const faqs = [
   [
     {
-      question: 'What is VendorSync Marketplace’s commission structure?',
+      question: 'What is a multivendor marketplace app for Shopify?',
       answer:
-        'Well no, but if you move your company offshore you can probably ignore it.',
+        'A multivendor marketplace app for Shopify is a powerful tool that allows businesses to transform their Shopify store into a platform where multiple sellers can list and sell their products, creating a larger and more diverse product catalog.',
     },
     {
-      question: 'How do order fulfillment and shipping work?',
-      answer: 'Absolutely, we are happy to take your money in all forms.',
+      question: 'How can joining a multivendor marketplace benefit my business?',
+      answer: 'Joining a multivendor marketplace app can significantly expand your product offerings, attract more customers, increase revenue streams, and boost overall visibility in the e-commerce market.',
     },
     {
-      question: 'How and when do I get paid?',
+      question: 'Is it easy to set up and manage a multivendor marketplace on Shopify?',
       answer:
-        'We only hire our customers, so subscribe for a minimum of 6 months and then let’s talk.',
+        'Absolutely! Our app offers an intuitive and user-friendly interface, making it seamless to set up, customize, and manage your multivendor marketplace. No technical expertise required!',
     },
   ],
   [
     {
-      question: 'What was that testimonial about tax fraud all about?',
+      question: 'What features does the multivendor marketplace app offer?',
       answer:
-        'VendorSync Marketplace is just a software application, ultimately your books are your responsibility.',
+        'Our app provides a wide range of features including customizable storefronts for each seller, secure payment processing, order management, reviews and ratings, robust reporting tools, and more.',
     },
     {
       question:
-        'VendorSync Marketplace sounds horrible but why do I still feel compelled to purchase?',
+        'How does the payment process work for sellers?',
       answer:
-        'This is the power of excellent visual design. You just can’t resist it, no matter how poorly it actually functions.',
+        'Sellers can choose from various payment methods, and their earnings are securely processed and directly deposited into their preferred account. Our app ensures a transparent and hassle-free payment process.',
     },
     {
       question:
-        'I found other companies called VendorSync Marketplace, are you sure you can use this name?',
+        'Is there a support system in place for sellers on the multivendor marketplace?',
       answer:
-        'Honestly not sure at all. We haven’t actually incorporated or anything, we just thought it sounded cool and made this website.',
+        'Yes, we offer dedicated support for both sellers and administrators. Our team is here to assist with any questions or issues to ensure a seamless experience for everyone involved.',
     },
   ],
   [
     {
-      question: 'How do you generate reports?',
+      question: 'Can I track the performance and analytics of my sales?',
       answer:
-        'You just tell us what data you need a report for, and we get our kids to create beautiful charts for you using only the finest crayons.',
-    },
-    {
-      question: 'Can we expect more inventory features?',
-      answer: 'In life it’s really better to never expect anything at all.',
-    },
-    {
-      question: 'I lost my password, how do I get into my account?',
-      answer:
-        'Send us an email and we will send you a copy of our latest password spreadsheet so you can find your information.',
+        'Yes, our app comes with robust reporting and analytics tools that allow you to track sales, monitor seller performance, and gain valuable insights to make data-driven decisions.',
     },
   ],
 ]
