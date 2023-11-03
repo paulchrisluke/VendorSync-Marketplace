@@ -58,15 +58,6 @@ const testimonials = [
         image: avatarImage3,
       },
     },
-    {
-      content:
-        'What stands out for us is the commitment to continuous improvement. The customer support has been exemplary, and their responses have always been on point.',
-      author: {
-        name: 'Rober Stephens',
-        role: 'Director of Operations',
-        image: avatarImage4,
-      },
-    },
   ],
 ]
 
