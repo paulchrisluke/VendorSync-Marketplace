@@ -20,7 +20,7 @@ const testimonials = [
     },
     {
       content:
-        'It\'s intuitive, easy to navigate, and has significantly streamlined our vendor management process.',
+        'Very intuitive, easy to navigate, and has significantly streamlined our vendor management process.',
       author: {
         name: 'John Rodriguez',
         role: 'COO',
@@ -31,7 +31,7 @@ const testimonials = [
   [
     {
       content:
-        'VendorSync Marketplace has been instrumental in optimizing our vendor relationships. The platform\'s features are well thought out and cater to the specific needs of a multivendor marketplace. Our team quickly adapted to it, thanks to its user-friendly interface.',
+        'VendorSync Marketplace has been instrumental in optimizing our vendor relationships. The features are well thought out and cater to the specific needs of a multivendor marketplace. Our team quickly adapted to it, thanks to its user-friendly interface.',
       author: {
         name: 'Lisa Anderson',
         role: 'Director of Operations',
@@ -40,7 +40,7 @@ const testimonials = [
     },
     {
       content:
-        'It\'s a robust solution that seamlessly integrates with our Shopify store, providing a comprehensive suite of tools for managing our vendors effectively.',
+        'Its a robust solution that seamlessly integrates with our Shopify store, providing a comprehensive suite of tools for managing our vendors effectively.',
       author: {
         name: 'Michael Chang',
         role: 'Founder',
@@ -51,7 +51,7 @@ const testimonials = [
   [
     {
       content:
-        'We'/ve been using VendorSync Marketplace for a few months now, and it/'s been a game-changer for our business. The ease with which it integrates with our existing Shopify setup is impressive.',
+        'Started using VendorSync Marketplace a few months now, and it has been a game-changer for our business. The ease with which it integrates with our existing Shopify setup is impressive.',
       author: {
         name: 'David Reynolds',
         role: 'CEO and Founder',
