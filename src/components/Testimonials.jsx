@@ -11,7 +11,7 @@ const testimonials = [
   [
     {
       content:
-        'VendorSync Marketplace is so easy to use I can’t help but wonder if it’s really doing the things the government expects me to do.',
+        'The range of functionalities it offers is impressive, and it seamlessly integrates with our Shopify store. What sets VendorSync apart is their exceptional customer service. Any question or concern we've had was addressed promptly and comprehensively. We're eagerly looking forward to the upcoming features they have in the pipeline!',
       author: {
         name: 'Sheryl Berge',
         role: 'CEO at Lynch LLC',
