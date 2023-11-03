@@ -20,17 +20,6 @@ const testimonials = [
     },
     {
       content:
-        'Very intuitive, easy to navigate, and has significantly streamlined our vendor management process.',
-      author: {
-        name: 'John Rodriguez',
-        role: 'COO',
-        image: avatarImage4,
-      },
-    },
-  ],
-  [
-    {
-      content:
         'VendorSync Marketplace has been instrumental in optimizing our vendor relationships. The features are well thought out and cater to the specific needs of a multivendor marketplace. Our team quickly adapted to it, thanks to its user-friendly interface.',
       author: {
         name: 'Lisa Anderson',
@@ -38,6 +27,18 @@ const testimonials = [
         image: avatarImage5,
       },
     },
+  ],
+  [
+    {
+      content:
+        'Very intuitive, easy to navigate, and has significantly streamlined our vendor management process.',
+      author: {
+        name: 'John Rodriguez',
+        role: 'COO',
+        image: avatarImage4,
+      },
+    },
+    
     {
       content:
         'Its a robust solution that seamlessly integrates with our Shopify store, providing a comprehensive suite of tools for managing our vendors effectively.',
