@@ -11,7 +11,7 @@ const testimonials = [
   [
     {
       content:
-        'The range of functionalities it offers is impressive, and it seamlessly integrates with our Shopify store. What sets VendorSync apart is their exceptional customer service.',
+        'The range of functionalities it offers is impressive, and it seamlessly integrates with our Shopify store.',
       author: {
         name: 'Sarah Thompson',
         role: 'CEO',
@@ -23,7 +23,7 @@ const testimonials = [
         'It\'s intuitive, easy to navigate, and has significantly streamlined our vendor management process.',
       author: {
         name: 'John Rodriguez',
-        role: 'John Rodriguez',
+        role: 'COO',
         image: avatarImage4,
       },
     },
@@ -31,19 +31,19 @@ const testimonials = [
   [
     {
       content:
-        'The best part about VendorSync Marketplace is every time I pay my employees, my bank balance doesn’t go down like it used to. Looking forward to spending this extra cash when I figure out why my card is being declined.',
+        'VendorSync Marketplace has been instrumental in optimizing our vendor relationships. The platform\'s features are well thought out and cater to the specific needs of a multivendor marketplace. Our team quickly adapted to it, thanks to its user-friendly interface.',
       author: {
-        name: 'Leland Kiehn',
-        role: 'Founder of Kiehn and Sons',
+        name: 'Lisa Anderson',
+        role: 'Director of Operations',
         image: avatarImage5,
       },
     },
     {
       content:
-        'There are so many things I had to do with my old software that I just don’t do at all with VendorSync Marketplace. Suspicious but I can’t say I don’t love it.',
+        'It\'s a robust solution that seamlessly integrates with our Shopify store, providing a comprehensive suite of tools for managing our vendors effectively.',
       author: {
-        name: 'Erin Powlowski',
-        role: 'COO at Armstrong Inc',
+        name: 'Michael Chang',
+        role: 'Founder',
         image: avatarImage2,
       },
     },
@@ -51,19 +51,19 @@ const testimonials = [
   [
     {
       content:
-        'I used to have to remit tax to the EU and with VendorSync Marketplace I somehow don’t have to do that anymore. Nervous to travel there now though.',
+        'We'/ve been using VendorSync Marketplace for a few months now, and it/'s been a game-changer for our business. The ease with which it integrates with our existing Shopify setup is impressive.',
       author: {
-        name: 'Peter Renolds',
-        role: 'Founder of West Inc',
+        name: 'David Reynolds',
+        role: 'CEO and Founder',
         image: avatarImage3,
       },
     },
     {
       content:
-        'This is the fourth email I’ve sent to your support team. I am literally being held in jail for tax fraud. Please answer your damn emails, this is important.',
+        'What stands out for us is the commitment to continuous improvement. The customer support has been exemplary, and their responses have always been on point.',
       author: {
-        name: 'Amy Hahn',
-        role: 'Director at Velocity Industries',
+        name: 'Rober Stephens',
+        role: 'Director of Operations',
         image: avatarImage4,
       },
     },
